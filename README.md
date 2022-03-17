@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshay-Mahadeva
-- 👀 I’m interested in problem solving and Data
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently working as Data Engineer Intern
 - 💞️ I’m currently learning DataOps and DevOps with Terraform for building Azure frameworks.
 -
